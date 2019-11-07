@@ -1,0 +1,3 @@
+One operating system function is providing a graphic user interface for the user. The GUI is responsible for how easy the user will be
+able to navigate the operating system and the features the GUI includes. Many common operating systems with easy to use GUI's would Windows
+10 and Mac OS.
